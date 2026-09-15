@@ -62,20 +62,6 @@ A mobile application for pet owners that combines pet care management with an AI
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=selinkubra&show_icons=true&theme=tokyonight&hide_border=true"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=selinkubra&layout=compact&theme=tokyonight&hide_border=true"
-    height="165"
-  />
-</p>
----
-
-<p align="center">
-🖥️ <em>Full-stack oriented developer with strong frontend skills and growing backend expertise.</em>
+💻 <em>Building practical solutions across web, mobile, and machine learning.</em>
 </p>
