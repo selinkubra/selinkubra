@@ -65,13 +65,15 @@ A mobile application for pet owners that combines pet care management with an AI
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=selinkubra&theme=tokyonight&hide_border=false" />
-  <br/><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=selinkubra&theme=tokyonight&hide_border=false" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selinkubra&theme=tokyonight&layout=compact" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=selinkubra&show_icons=true&theme=tokyonight&hide_border=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=selinkubra&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
+  />
 </p>
-
 ---
 
 <p align="center">
