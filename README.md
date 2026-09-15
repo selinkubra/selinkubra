@@ -16,14 +16,15 @@
 
 ---
 
-## 🔧 Technologies I Use
-- HTML, CSS, JavaScript  
-- React, React Native  
-- ASP.NET Core MVC  
-- Python, Flask  
-- Node.js, Express  
-- Git & GitHub  
-- Tailwind CSS  
+## 🛠️ Technologies
+
+Languages: Python, JavaScript, TypeScript, HTML, CSS
+Frontend & Mobile: React, React Native, Tailwind CSS
+Backend: ASP.NET Core MVC, Flask, Node.js, Express.js
+Databases: SQL Server, MySQL
+Tools: Git, GitHub
+
+Currently Learning: ☕ Java
 
 ---
 
