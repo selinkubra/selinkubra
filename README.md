@@ -4,64 +4,80 @@
   <img src="https://user-images.githubusercontent.com/74038190/215283295-44de9069-d569-4963-ba8f-264443a54c6d.gif" width="30%"/>
 </p>
 
-## 🙋‍♀️ About Me
-
-🎓 I’m a Computer Engineering graduate interested in web development, mobile application development, and machine learning.
-
-💻 I work across both frontend and backend development, building web and mobile applications.
-
-⚙️ Through my internships, I gained hands-on experience with ASP.NET Core MVC for web development and Python & React Native for mobile application development.
-
-☕ I’m currently focusing on Java and strengthening my knowledge of backend development and the Java ecosystem.
-
----
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="30%" />
+  Computer Engineering Graduate • Web & Mobile Developer • Machine Learning Enthusiast
 </p>
 
 ---
 
-# 💻 Tech Stack:
+## ୨ৎ About Me
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+🎓 I’m a **Computer Engineering graduate** interested in web development, mobile application development, and machine learning.
+
+⚙️ Through my internships, I gained hands-on experience with **ASP.NET Core MVC** for web development and **Python & React Native** for mobile application development.
+
+☕ I’m currently exploring **Java and backend development**, expanding my knowledge of the Java ecosystem through hands-on practice.
 
 ---
 
-## 💌 Let's Connect! 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selin-kübra-şimşek/)
+## ✦ Tech Stack
+
+### Languages
+![C#](https://img.shields.io/badge/C%23-7C5CFC?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-8B6FF7?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-7357D9?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-9D82F5?style=for-the-badge&logo=javascript&logoColor=white)
+
+### Frontend & Mobile
+![React](https://img.shields.io/badge/React-7C5CFC?style=for-the-badge&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-8B6FF7?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-7357D9?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-9D82F5?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Backend
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-7C5CFC?style=for-the-badge&logo=dotnet&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-8B6FF7?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-7357D9?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-9D82F5?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-7C5CFC?style=for-the-badge&logo=express&logoColor=white)
+
+### Databases & Tools
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-8B6FF7?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-7357D9?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-9D82F5?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-7C5CFC?style=for-the-badge&logo=github&logoColor=white)
+
+### Currently Exploring
+![Java](https://img.shields.io/badge/Java-8B6FF7?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## ˚₊‧ Featured Projects
 
 ### 🐾 PetCare
-🚧 Currently in development
 
-A mobile application for pet owners that combines pet care management with an AI-assisted support system. It includes a rule-based risk assessment system and generates contextual guidance through OpenAI API integration.
+> 🚧 **Currently in Development**
 
-**Tech:** React Native • TypeScript • Node.js • Express.js • Firebase • Cloud Firestore • OpenAI API • REST API
+A mobile application for pet owners that combines **pet care management** with an **AI-assisted support system**.
+
+The application includes a rule-based risk assessment system and provides contextual guidance through **OpenAI API integration**.
+
+**Tech:** `React Native` • `TypeScript` • `Node.js` • `Express.js` • `Firebase` • `Cloud Firestore` • `OpenAI API` • `REST API`
 
 [View Repository →](https://github.com/selinkubra/PetCareAPPNew)
 
 ---
 
+## ♡ Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/selin-kübra-şimşek/">
+    <img src="https://img.shields.io/badge/LinkedIn-8B6FF7?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 <p align="center">
-💻 <em>Building practical solutions across web, mobile, and machine learning.</em>
+  <i>✦ Building practical solutions across web, mobile & machine learning. ✦</i>
 </p>
