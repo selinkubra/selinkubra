@@ -4,12 +4,15 @@
   <img src="https://user-images.githubusercontent.com/74038190/215283295-44de9069-d569-4963-ba8f-264443a54c6d.gif" width="30%"/>
 </p>
 
-## 🙋‍♀️ About Me  
-🎓 I’m a 4th-year Computer Engineering student.  
-💻 I work on frontend and full-stack web development using modern technologies.  
-⚙️ I gained hands-on experience with ASP.NET Core MVC during my software engineering internship and applied it in personal projects.  
-📄 Currently, I am developing a Python & Flask-based project focused on PDF document similarity and content analysis.  
-🌱 I continuously improve my skills by building real-world projects and exploring scalable software architectures.
+## 🙋‍♀️ About Me
+
+🎓 I’m a Computer Engineering graduate interested in web development, mobile application development, and machine learning.
+
+💻 I work across both frontend and backend development, building web and mobile applications.
+
+⚙️ Through my internships, I gained hands-on experience with ASP.NET Core MVC for web development and Python & React Native for mobile application development.
+
+☕ I’m currently focusing on Java and strengthening my knowledge of backend development and the Java ecosystem.
 
 ---
 
