@@ -49,6 +49,19 @@
 
 ---
 
+## 🚀 Featured Projects
+
+### 🐾 PetCare
+🚧 Currently in development
+
+A mobile application for pet owners that combines pet care management with an AI-assisted support system. It includes a rule-based risk assessment system and generates contextual guidance through OpenAI API integration.
+
+**Tech:** React Native • TypeScript • Node.js • Express.js • Firebase • Cloud Firestore • OpenAI API • REST API
+
+[View Repository →](https://github.com/selinkubra/PetCareAPPNew)
+
+---
+
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
