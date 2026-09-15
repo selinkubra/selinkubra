@@ -18,8 +18,8 @@
 
 ## 🛠️ Technologies
 
-Languages: Python, JavaScript, TypeScript, HTML, CSS
-Frontend & Mobile: React, React Native, Tailwind CSS
+Languages: Python, C#, JavaScript, TypeScript
+Frontend & Mobile: HTML, CSS, React, React Native, Tailwind CSS
 Backend: ASP.NET Core MVC, Flask, Node.js, Express.js
 Databases: SQL Server, MySQL
 Tools: Git, GitHub
